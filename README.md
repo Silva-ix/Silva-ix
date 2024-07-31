@@ -10,7 +10,7 @@
 </picture>
 
 
-⁠**Você quer me matar? haha Você não seria capaz nem de matar meu tédio!**
+ ⁠**Você quer me matar? haha Você não seria capaz nem de matar meu tédio!**
 
 <!---
 Silva-ix/Silva-ix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
